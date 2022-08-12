@@ -1,3 +1,3 @@
 edited 
 emptyfile and checking for git staged and modified process
-
+now i logged in into ubantu and working on ubantu ;

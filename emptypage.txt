@@ -1,0 +1,3 @@
+edited 
+emptyfile and checking for git staged and modified process
+
